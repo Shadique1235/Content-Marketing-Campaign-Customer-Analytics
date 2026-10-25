@@ -38,4 +38,4 @@ To transform raw marketing and customer data into actionable insights that help 
 
 ## 6. Screenshots / Demos
 ex: [Dashboard Preview]
-https://github.com/Shadique1235/Content-Marketing-Campaign-CustomerAnalytics/blob/main/Content%20Marketing%20Campaign%20%26%20Customer%20Analytics%20Dashboard.png
+https://github.com/Shadique1235/Content-Marketing-Campaign-Customer-Analytics/blob/main/Content%20Marketing%20Campaign%20%26%20Customer%20Analytics%20Dashboard.png
