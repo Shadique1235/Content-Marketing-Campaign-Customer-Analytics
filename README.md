@@ -33,9 +33,9 @@ Businesses need to understand which marketing sources generate the most purchase
 - Helps evaluate customer purchasing behavior.
 - Supports data-driven marketing budget allocation and campaign optimization.
 
-- ## 6. Screenshots / Demos
-- ex: [Dashboard Preview]
-- 
-
 ### d) Project Goal
 To transform raw marketing and customer data into actionable insights that help businesses improve campaign effectiveness, optimize spending, and make better marketing decisions.
+
+## 6. Screenshots / Demos
+ex: [Dashboard Preview]
+https://github.com/Shadique1235/Content-Marketing-Campaign-CustomerAnalytics/blob/main/Content%20Marketing%20Campaign%20%26%20Customer%20Analytics%20Dashboard.png
